@@ -1,4 +1,4 @@
-# Build-A-Machine-Learning-Web-App-Using-Python
+# Build-A-Machine-Learning-Web-App-Using-Python-Diabetes Detection
 
 Go to the Terminal: 
 
